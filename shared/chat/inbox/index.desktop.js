@@ -220,8 +220,8 @@ const _containerStyle = {
   backgroundColor: globalColors.blue5,
   borderRight: `1px solid ${globalColors.black_05}`,
   height: '100%',
-  maxWidth: 241,
-  minWidth: 241,
+  maxWidth: 240,
+  minWidth: 240,
   position: 'relative',
 }
 
